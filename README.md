@@ -47,6 +47,3 @@ Presentation → Provider controller → repository contract → SQLite implemen
 
 ## Important production considerations
 This is a local-first professional starter, not a complete multi-user institutional deployment. Before using real student records, add authenticated backend APIs, role-based access control, audit logs, encrypted transport/storage, backup/restore, privacy and retention policies, and server-side validation. Never commit real student data or secrets.
-
-## License
-MIT — see `LICENSE`.
